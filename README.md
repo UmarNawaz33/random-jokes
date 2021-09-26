@@ -10,6 +10,7 @@ This application is built with the following:
 * HTML5
 * CSS3
 * JavaScript
+* BootStrap
 
 ## Api
 Following api is used for generating the random jokes: <br/>
